@@ -9,7 +9,7 @@ from math import sin, cos
 def printElement(pts):
     print("{")
     print("\tpoints: '{}',".format(pts))
-    print("\tcolor: colorGroups.newWB")
+    print("\tcolor: colorGroups.normal")
     print("},")
 
 file =  sys.argv[1]
