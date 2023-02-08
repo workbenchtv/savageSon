@@ -4,7 +4,7 @@ Savage Son converts svg to points for use with [scriptui-battlestyle]
 ## Basic Usage
 
 1. Put SavageSon.py somewhere
-2. Run it with python3 savageSon.py YOUR_SVG_FILE
+2. Run it with `python3 savageSon.py YOUR_SVG_FILE`
 3. Profit
 
 ## Conversions
